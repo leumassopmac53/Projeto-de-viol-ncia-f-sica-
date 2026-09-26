@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+
+  <rect
+    x="0"
+    y="0"
+    width="100"
+    height="100"
+    fill="white"/>
+
+  <!-- frase -->
+  <text
+    x="50"
+    y="45"
+    text-anchor="middle"
+    font-family="cursive"
+    font-size="11"
+    font-weight="700"
+    fill="#111">
+
+    <tspan x="50" dy="0">Pare com a</tspan>
+    <tspan x="50" dy="14">Violência!</tspan>
+
+  </text>
+
+</svg>
